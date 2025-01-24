@@ -23,7 +23,7 @@ body {
   .logo {
     display: block;
     max-width: 200px;
-    margin: 0 auto; 
+    margin: auto; 
   }
   
   .description {
